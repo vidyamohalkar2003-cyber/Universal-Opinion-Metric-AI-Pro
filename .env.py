@@ -1,5 +1,0 @@
-DB_HOST=localhost
-DB_NAME=postgres
-DB_USER=postgres
-DB_PASSWORD=2003
-DB_PORT=5432
